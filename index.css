@@ -1,3 +1,7 @@
+* {
+    z-index: 0;
+}
+
 body {
     font-family: "JetBrains Mono", sans-serif;
     background-color: #232323;
@@ -40,6 +44,43 @@ header {
     padding: 15px;
 }
 
+#menu {
+    background-color: #ffcb3f;
+    width: 30%;
+    height: 100%;
+    padding: 10px;
+    position: absolute;
+}
+
+#menu-list {
+    list-style-type: none;
+    position: absolute;
+    overflow: hidden;
+}
+
+#menu.open {
+    transform: translateX(-50px);
+    transition: all .2s ease-in-out;
+    background: transparent;
+    box-shadow: none;
+}
+#menu-list.open {
+    transform: translateX(-200px);
+    transition: all .2s ease-in-out;
+    background: transparent;
+    box-shadow: none;
+}
+
+.menu-item {
+    padding: 15px 0px 15px 0px;
+}
+
+.menu-item a {
+    color: #232323; /* blue colors for links too */
+    font-weight: bold;
+    text-decoration: inherit; /* no underline */
+}
+
 .vis {
     color: #767676;
     border-color: #767676;
@@ -57,6 +98,7 @@ header {
     transition: all .2s ease-in-out;
     /* border: 3px solid #fff; */
 }
+
 .menu-btn__burger {
     width: 20px;
     height: 3px;
@@ -76,9 +118,11 @@ header {
     box-shadow: 0 2px 5px rgba(255,101,47,.2);
     transition: all .2s ease-in-out;
 }
+
 .menu-btn__burger::before {
     transform: translateY(-6px);
 }
+
 .menu-btn__burger::after {
     transform: translateY(6px);
 }
