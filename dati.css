@@ -1,0 +1,11 @@
+.list {
+    padding: 15px;
+}
+.list li {
+    padding: 10px;
+}
+.list a {
+    color: #999999; /* blue colors for links too */
+    font-weight: bold;
+    text-decoration: inherit; /* no underline */
+}
