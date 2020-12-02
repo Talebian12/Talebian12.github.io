@@ -1,7 +1,10 @@
 body {
     font-family: "JetBrains Mono", sans-serif;
+    background-color: #232323;
+    color: #cbcbcb;
 }
 
 #title {
     text-align: center;
+    background-color: #333333;
 }
