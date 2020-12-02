@@ -11,6 +11,28 @@ body {
     padding: 30px;
 }
 
+#table {
+    width: 75%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: #303030;
+    border-style: solid;
+    color: #000000;
+}
+
+#tab td, #tab th {
+    border-width: 2px;
+    border-color: #303030;
+    border-style: solid;
+    padding: 8px;
+}
+
+#tab thead {
+    background-color: #e65000;
+}
+
+
 .clearfix:after {
     visibility: hidden;
     display: block;
