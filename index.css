@@ -6,6 +6,7 @@ body {
 
 header {
     background-color: #ffbe02;
+    position: relative;
 }
 
 #title {
@@ -42,7 +43,7 @@ header {
 
 #menu {
     background-color: #ffcb3f;
-    width: 30%;
+    width: 350px;
     height: 100%;
     padding: 10px;
     position: absolute;
@@ -68,7 +69,7 @@ header {
 }
 
 .menu-item {
-    padding: 15px 0px 15px 0px;
+    padding: 15px 0 15px 0;
 }
 
 .menu-item a {
