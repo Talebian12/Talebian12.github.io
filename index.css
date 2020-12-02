@@ -7,6 +7,7 @@ body {
 #title {
     text-align: center;
     background-color: #333333;
+    backdrop-filter: blur(5px);
     padding: 30px;
 }
 
