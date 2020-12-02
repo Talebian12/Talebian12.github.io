@@ -5,11 +5,11 @@ body {
 }
 
 h1 {
-    font-size: 26px;
+    font-size: 36px;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 32px;
 }
 
 #title {
@@ -42,6 +42,8 @@ h2 {
 
 .vis {
     color: #767676;
+    border-color: #767676;
+    background-color: #767676;
 }
 
 
