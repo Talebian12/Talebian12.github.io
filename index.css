@@ -4,14 +4,6 @@ body {
     color: #cbcbcb;
 }
 
-h1 {
-    font-size: 36px;
-}
-
-h2 {
-    font-size: 32px;
-}
-
 #title {
     text-align: center;
     background-color: #333333;
@@ -38,6 +30,10 @@ h2 {
 
 #tab thead {
     background-color: #e65000;
+}
+
+#content {
+    padding: 15px;
 }
 
 .vis {
