@@ -47,12 +47,14 @@ header {
     height: 100%;
     padding: 10px;
     position: absolute;
+    z-index: 1; /* Stay on top */
 }
 
 #menu-list {
     list-style-type: none;
     position: absolute;
     overflow: hidden;
+    z-index: 1; /* Stay on top */
 }
 
 #menu.open {
