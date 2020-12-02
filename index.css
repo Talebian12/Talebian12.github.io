@@ -4,6 +4,14 @@ body {
     color: #cbcbcb;
 }
 
+h1 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
 #title {
     text-align: center;
     background-color: #333333;
@@ -30,6 +38,10 @@ body {
 
 #tab thead {
     background-color: #e65000;
+}
+
+.vis {
+    color: #767676;
 }
 
 
