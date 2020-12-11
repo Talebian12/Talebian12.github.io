@@ -48,7 +48,7 @@ Il processo semplificato di funzionamento di Meltdown si può riassumere così:
 Il metodo di mitigazione di Meltdown è stato, per esempio su Windows, isolare la kernel e l'user mode page (Kernel & 
 User-mode page-table isolation).
 
-#### Meltdown colpisce solo **CPU Intel**.
+### Meltdown colpisce solo **CPU Intel**.
 
 ---
 
