@@ -75,7 +75,7 @@ il **Bound Check Bypass** e le sue sotto varianti il BCB Store e **Read-only pro
 
 Queste falle non possono essere risolte con un aggiornamento software, l'unico modo è **disabilitare le funzioni colpite**,
 questo però porta in una perdita di prestazioni più o meno grave (nel caso di Meltdown, in alcune situazioni come la
-virtualizzazione è stato mostrato come in alcune situazioni _il calo prestazionale arrivasse anche ad un 70% dove 
+virtualizzazione è stato mostrato come in alcune situazioni __il calo prestazionale arrivasse anche ad un 70% dove 
 l'esecuzione speculativa era più usata__).
 
 ---
