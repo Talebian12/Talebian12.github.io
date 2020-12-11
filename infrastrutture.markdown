@@ -12,9 +12,9 @@ nav_order: 4
 
 ## Le infrastrutture fondamento della comunicazione
 Le infrastrutture sono la parte fondamentale della comunicazione, sulle infrastrutture girano i servizi essenziali al
-funzionamento dei vari sistemi di comunicazione. I PC, gli Smartphone, i Server, gli apparati di rete, tutti questi e 
+funzionamento dei vari sistemi di comunicazione. _I PC, gli Smartphone, i Server, gli apparati di rete_, tutti questi e 
 molti altri dispositivi formano le infrastrutture necessarie per usufruire dei servizi, che siano comunicazione 
-interpersonale, comunicazione di dati ad una azienda o semplicemente l'interrogazione di un database, formano
+interpersonale, comunicazione di dati a una azienda o semplicemente l'interrogazione di un database, formano
 infrastrutture e ogni componente è dipendente dall'altro per lo svolgimento dei compiti.
 
 ---
@@ -32,7 +32,7 @@ proteggere un sistema da potenziali attacchi.
 ![stack](/assets/images/firewall.svg)
 
 * **Aggiornamenti Software**: gli aggiornamenti software sono utili per mantenere la macchina protetta da falle di sicurezza
-  recenti e risolte, un software obsoleto può portare ad un dispositivo ad avere potenziali falle pericolose per i dati
+  recenti e risolte, un software obsoleto può portare a un dispositivo ad avere potenziali falle pericolose per i dati
   degli utenti che ne usufruiscono.
 
   Gli aggiornamenti software possono essere eseguiti così:
@@ -44,7 +44,7 @@ proteggere un sistema da potenziali attacchi.
     Arch Linux: # pacman -Syu
   
 * **Service Misconfiguration**: può succedere che, per negligenza, la configurazione dei dispositivi venga fatta in modo 
-  errato, attivando o lasciando attive opzioni magari non adatte ad una connessione pubblica e che quindi possono 
+  errato, attivando o lasciando attive opzioni magari non adatte a una connessione pubblica e che quindi possono 
   portare a problemi di sicurezza sulla macchina e dopo a problemi sull'intera comunicazione tra i dispositivi in rete.
   
 ## Falle Hardware

@@ -20,16 +20,16 @@ dall'utente finale.
 
 ![stack](/assets/images/stack.svg)
 
-L'utente finale ha anche lui molte responsabilità nella gestione dei dati e la protezione, tra queste c'è l'uso di una 
-password sicura, l'autenticazione a due fattori e l'uso di supporti criptati, come su Windows nel caso di edizione Pro
-l'uso di Bitlocker, su Linux l'uso di LUKS con dm-verity e cryptosetup e su MacOS l'uso di Filevault.
+L'utente finale ha anche lui molte responsabilità nella _gestione dei dati_ e _la protezione_, tra queste c'è **l'uso di una 
+password sicura, l'autenticazione a due fattori e l'uso di supporti criptati**, come su Windows nel caso di edizione Pro
+l'uso di **Bitlocker**, su Linux l'uso di **LUKS** con _dm-verity_ e _cryptosetup_ e su MacOS l'uso di **Filevault**.
 
 ---
 
 ## Criptazione
 
 I dati personali sensibili poi, per maggiore sicurezza, dovrebbero essere sempre criptati, i metodi di criptazione più 
-usati sono la criptazione E2E (End to End), dove per ogni dato inviato il mittente la cripta con una chiave pubblica e 
+usati sono la criptazione **E2E (End to End)**, dove per ogni dato inviato il mittente la cripta con una chiave pubblica e 
 il destinatario lo decripta con una chiave privata e viceversa. Un metodo più semplice è invece aprire una connessione
 protetta e criptata tra i due dove i messaggi vengono criptatati per quella connessione e non viene creata una nuova
 connessione per ogni invio. Le chiavi di criptazione possono essere principalmente di questi tipi:
