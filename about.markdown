@@ -15,6 +15,7 @@ permalink: /about/
 * [IEEE TCP datasheet](https://tools.ietf.org/html/rfc1180)
 * [Linux Kernel datasheet](https://www.kernel.org/doc/html/latest/)
 * [How Meltdown and Spectre works](https://spectrum.ieee.org/computing/hardware/how-the-spectre-and-meltdown-hacks-really-worked)
+* [Meltdown & Spectre vulnerabilities - Simply Explained](https://www.youtube.com/watch?v=bs0xswK0eZk&ab_channel=SimplyExplained)  
 * [Meltdown Mitigation](https://meltdownattack.com/meltdown.pdf)
 * [Spectre Mitigation](https://spectreattack.com/spectre.pdf)
 
