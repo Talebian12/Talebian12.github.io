@@ -68,6 +68,7 @@ Esistono diverse versioni di Spectre, alcune riguardano la Speculative Store Byp
 il Bound Check Bypass e le sue sottovarianti il BCB Store e Read-only protection bypass. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bs0xswK0eZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 Queste falle non possono essere risolte con un aggiornamento software, l'unico modo è disabilitare le funzioni colpite,
