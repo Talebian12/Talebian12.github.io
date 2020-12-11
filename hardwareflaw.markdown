@@ -67,8 +67,7 @@ un programma malevolo non dovrebbero poter sapere, saltando i meccanismi di prot
 Esistono diverse versioni di Spectre, alcune riguardano la Speculative Store Bypass, altre, come la prima variante
 il Bound Check Bypass e le sue sottovarianti il BCB Store e Read-only protection bypass. 
 
-[![MELTDOWN AND SPECTRE](http://img.youtube.com/vi/bs0xswK0eZk/0.jpg)](http://www.youtube.com/watch?v=bs0xswK0eZk "Meltdown & Spectre vulnerabilities")
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bs0xswK0eZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 Queste falle non possono essere risolte con un aggiornamento software, l'unico modo è disabilitare le funzioni colpite,
