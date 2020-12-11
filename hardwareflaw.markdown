@@ -81,5 +81,3 @@ Come ho appena scritto, le CPU possono essere soggetti, anche se in occasioni ra
 difetti portano a possibili problemi di sicurezza che non possono essere risolti, ma mitigati, disabilitando quella specifica
 funzione della CPU. Questo perché essendo un problema hardware, per essere risolto serve una nuova serie di CPU, in cui 
 quella funzione non è più vulnerabile a livello di Architettura
-  
-![stack](/assets/images/firewall.svg)
